@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSC-140 - C\u002B\u002B Programming\\CppBranches\\CppBranches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6227311-427B-4958-AD80-4FAB565EFB3C}|CppBranches.vcxproj|C:\\CSC-140 - C\u002B\u002B Programming\\CppBranches\\CppBranches\\CppBranches.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6227311-427B-4958-AD80-4FAB565EFB3C}|CppBranches.vcxproj|solutionrelative:CppBranches.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CppBranches.cpp",
+              "DocumentMoniker": "C:\\CSC-140 - C\u002B\u002B Programming\\CppBranches\\CppBranches\\CppBranches.cpp",
+              "RelativeDocumentMoniker": "CppBranches.cpp",
+              "ToolTip": "C:\\CSC-140 - C\u002B\u002B Programming\\CppBranches\\CppBranches\\CppBranches.cpp",
+              "RelativeToolTip": "CppBranches.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T03:39:20.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
